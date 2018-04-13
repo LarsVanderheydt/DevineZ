@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "health": {
+            "frame": {
+                "x": 401,
+                "y": 167,
+                "w": 400,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 400
+            }
+        },
+        "shotgun": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 819,
+                "h": 166
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 819,
+                "h": 166
+            },
+            "sourceSize": {
+                "w": 819,
+                "h": 166
+            }
+        },
+        "rifle": {
+            "frame": {
+                "x": 0,
+                "y": 167,
+                "w": 400,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 400
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "powerups.png",
+        "size": {
+            "w": 819,
+            "h": 567
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "button": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 364,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 364,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 364,
+                "h": 68
+            }
+        },
+        "button_hover": {
+            "frame": {
+                "x": 0,
+                "y": 69,
+                "w": 364,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 364,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 364,
+                "h": 68
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "buttons.png",
+        "size": {
+            "w": 364,
+            "h": 137
+        },
+        "scale": 1
+    }
+}
